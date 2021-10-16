@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+}
+body {
+  background: #f0f8ff;
+}
+.container {
+  width: 50vh;
+  margin: 2rem auto;
+  text-align: center;
+}
+.tittle {
+  margin: 1rem 0;
+}
+.card {
+  background: #d8d8d7;
+  box-shadow: 3px 4px #373737;
+  color: #444;
+  width: 15rem;
+  margin: 0.5rem auto;
+  border: 1rem;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.card:hover {
+  transition: background 0.5s;
+  cursor: pointer;
+  background-color: #dddddd;
+}
+.card:hover {
+  background: #ebebeb;
+}
+.card:active {
+  background: #fcfcfc;
+}
+.cardBad {
+  background: #dc381f;
+  box-shadow: 3px 4px #300;
+  color: azure;
+  width: 15rem;
+  margin: 0.5rem auto;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.cardBad:hover {
+  background: #da9285;
+}
+.cardBad:active {
+  background: #d2a9a2;
+}
+
+.cardSelected {
+  background: #4aa02c;
+  box-shadow: 3px 4px #040;
+  color: azure;
+  width: 15rem;
+  margin: 0.5rem auto;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.cardSelected:hover {
+  background: #7dc165;
+}
+.cardSelected:active {
+  background: #9fe685;
+}
+.item {
+  margin: 0.2rem;
+}
