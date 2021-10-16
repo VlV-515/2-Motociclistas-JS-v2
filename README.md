@@ -16,7 +16,7 @@ https://github.com/VlV-515/2-Motociclistas-Angular
 _Resolucion de este ejercicio desde otro enfoque en JS:_
 
 ```
-https://github.com/VlV-515/2-Motociclistas-JS-v2
+https://github.com/VlV-515/2-Motociclistas-JS-v1
 ```
 
 ## Comenzando 🚀
