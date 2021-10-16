@@ -5,6 +5,20 @@ _La empresa 'Fulana' tiene una disponiblilidad de 8 motociclistas cada 30 minuto
 _Construye una lista que contenga tramos horarios en intervalos de 30 min, que inicie 8:00 am y finalice 8:00 pm._
 _Si otros usuarios han tomado el total de motociclistas en el bloque, debera aparecer en color rojo y no permitir elegir ese horario._
 
+### Otras soluciones
+
+_Resolucion de este ejercicio en framework Angular:_
+
+```
+https://github.com/VlV-515/2-Motociclistas-Angular
+```
+
+_Resolucion de este ejercicio desde otro enfoque en JS:_
+
+```
+https://github.com/VlV-515/2-Motociclistas-JS-v2
+```
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
